@@ -120,11 +120,11 @@ After a moment AWS stares at the instance. Once the **“Instance State”** cha
 
 
 ### Key Concept: 
-**EC2:** A Virtual computer that runs on AWS cloud.
-**AMI:** A ready-made template of an operating system.
-**Instance Type:** Size and power of your virtual computer.
-**Key Pair:** A password system to securely login to your instance.
-**Securtiy Group:** A firewall that controls who can access your instance.
-**VPC:** Your own private network inside AWS.
-**Subnet:** A smaller section of your VPC network.
-**EBS:** A hard drive attached to your EC2 instance.
+- **EC2:** A Virtual computer that runs on AWS cloud.
+- **AMI:** A ready-made template of an operating system.
+- **Instance Type:** Size and power of your virtual computer.
+- **Key Pair:** A password system to securely login to your instance.
+- **Securtiy Group:** A firewall that controls who can access your instance.
+- **VPC:** Your own private network inside AWS.
+- **Subnet:** A smaller section of your VPC network.
+- **EBS:** A hard drive attached to your EC2 instance.
