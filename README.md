@@ -19,4 +19,5 @@ Solution: **Launch an EC2 Instance**
 ### Steps to Launch EC2:
 #### Step1: Login into AWS console
 After logging into a AWS Management console, you can see a Dashboard that provides access to all AWS web service services. From here, you can easily navigate all the AWS services such as Amazon Lambda,  Amazon S3,Amazon  EC2, IAM roles.
+
 ![Step1](images/Pasted image.png)
