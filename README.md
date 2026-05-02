@@ -21,3 +21,5 @@ Solution: **Launch an EC2 Instance**
 After logging into a AWS Management console, you can see a Dashboard that provides access to all AWS web service services. From here, you can easily navigate all the AWS services such as Amazon Lambda,  Amazon S3,Amazon  EC2, IAM roles.
 
 ![Step1](images/Pasted image.png)
+<img width="1732" height="919" alt="image" src="https://github.com/user-attachments/assets/f1d51a2d-5a54-4f73-a7c1-16a0b8bd9d0c" />
+
